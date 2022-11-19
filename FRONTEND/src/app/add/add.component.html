@@ -1,0 +1,64 @@
+<div>
+    <main class="col-md-9 ml-sm-auto col-lg-10 px-md-4">
+        <div
+        class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+        <h1 class="h2">Add Student</h1>
+    </div>
+    
+    <div class="card">
+        <form class="form-control" [formGroup]="angForm" (ngSubmit)="postData(angForm)" autocomplete="off">
+            <br>
+            <div class="row">
+                <div class="col">
+                    <div class="mb-3">
+                        <label id="full_name_label" for="full_name">First Name</label>
+                        <input id="full_name" placeholder="First Name" formControlName="firstname" type="text" required class="form-control" />
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="mb-3">
+                        <label id="last_name_label" for="last_name">Last Name</label>
+                        <input id="last_name" placeholder="Lat Name" formControlName="lastname" type="text" required class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="mb-3">
+                        <label id="date_label" for="date">DOB</label>
+                        <input id="date"  formControlName="dob" type="date" required class="form-control" />
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="mb-3">
+                        <label id="email_label" for="email">Email Address</label>
+                        <input id="email" placeholder="example@gmail.com" formControlName="email" type="email" required class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="mb-3">
+                        <label id="username_label" for="username">Username</label>
+                        <input id="username" placeholder="Username" formControlName="username" type="text" required class="form-control" />
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="mb-3">
+                        <label id="password_label" for="password">Password</label>
+                        <input id="password" placeholder="********" formControlName="password" type="password"  required class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+
+                    <button  style="float: center" type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div><br>
+</main>
+</div>
+
+
