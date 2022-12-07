@@ -1,1 +1,13 @@
 # CRUD-APP
+![Screenshot from 2022-12-03 04-05-21](https://user-images.githubusercontent.com/117073931/206270508-6ad0a263-8822-444a-8fab-899f81e9e3dd.png)
+![Screenshot from 2022-12-03 04-14-25](https://user-images.githubusercontent.com/117073931/206270534-362aef0a-1f52-44db-9614-e89795d94501.png)
+![Screenshot from 2022-12-03 04-15-48](https://user-images.githubusercontent.com/117073931/206270559-765044fb-6a1b-4530-9720-99924433c055.png)
+![Screenshot from 2022-12-03 04-17-11](https://user-images.githubusercontent.com/117073931/206270582-b47b6961-29c6-4319-8922-4de9db7e1428.png)
+![Screenshot from 2022-12-03 04-19-50](https://user-images.githubusercontent.com/117073931/206270687-edf7c5ba-f091-4270-b19b-8b236c2f45a0.png)
+![Screenshot from 2022-12-03 04-21-46](https://user-images.githubusercontent.com/117073931/206270721-bdf97b8e-6ac8-4933-9c43-96a770a26b9e.png)
+![Screenshot from 2022-12-03 04-22-34](https://user-images.githubusercontent.com/117073931/206270751-ad40f1a0-829a-4862-ad39-d4052e31077d.png)
+![Screenshot from 2022-12-03 04-24-11](https://user-images.githubusercontent.com/117073931/206270768-681e40de-607e-48b4-9b0e-196542baef9b.png)
+![Screenshot from 2022-12-03 04-25-33](https://user-images.githubusercontent.com/117073931/206270786-7ae1a88a-f909-476b-9e2c-8c5e26120ff4.png)
+![Screenshot from 2022-12-03 04-27-08](https://user-images.githubusercontent.com/117073931/206270809-13db8f7e-7316-48f4-8efe-09c3737e0b05.png)
+![Screenshot from 2022-12-03 04-27-48](https://user-images.githubusercontent.com/117073931/206270838-6664f902-7419-4b00-ab05-c1e85873e1f1.png)
+![Screenshot from 2022-12-03 04-28-29](https://user-images.githubusercontent.com/117073931/206270853-7ff68bbd-b80b-40a6-8da8-366658cef176.png)
